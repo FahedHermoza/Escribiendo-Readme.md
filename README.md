@@ -1,6 +1,6 @@
 # Escribiendo README.md
 ______
-Un libro de cocina es una forma de documentar recetas, nos ayuda a dar sentido a todas las herramientas e ingredientes en la cocina. Pero que tiene que ver, mucho.
+Un libro de cocina es una forma de documentar recetas, nos ayuda a dar sentido a todas las herramientas e ingredientes en la cocina, sin ello no tendría idea de cómo poner todo junto. ¿Pero que tiene que ver? Mucho. La documentación técnica existe para un propósito similar.
 
 La documentación técnica existe para ayudarnos a darle un sentido al código sin ello los devs no sabrían como usar el código de otras personas. A menudo escrito en ingles simple, como serie de tutoriales o guías.
 
