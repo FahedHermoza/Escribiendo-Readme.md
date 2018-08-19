@@ -1,4 +1,5 @@
 # Escribiendo README.md
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-sharks.svg)](https://forthebadge.com)
 ______
 Un libro de cocina es una forma de documentar recetas, nos ayuda a dar sentido a todas las herramientas e ingredientes en la cocina, sin ello no tendría idea de cómo poner todo junto. ¿Pero que tiene que ver? Mucho. La documentación técnica existe para un propósito similar.
 
