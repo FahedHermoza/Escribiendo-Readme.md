@@ -43,7 +43,9 @@ A medida que su código crece es posible que deba evaluar la información esenci
 Usa el lenguaje **Markdown** el cual le permite generar READMEs bien formateados.
 - StackOverflow, Slack, Reddit son algunos de los que utilizan este lenguaje.
 - Sintaxis básica de estructura y formateo para GitHub [aquí](https://help.github.com/articles/basic-writing-and-formatting-syntax/#paragraphs-and-line-breaks).
+- Usa [insigneas](https://forthebadge.com/) es mas divertido leer tu codigo.
 - Html sigue siendo valido en Markdorw, no te compliques.
+
 
 ## Recursos
 - [Dilllinger](https://dillinger.io/) (en línea)
