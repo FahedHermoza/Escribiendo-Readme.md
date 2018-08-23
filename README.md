@@ -58,5 +58,4 @@ Usa el lenguaje **Markdown** el cual le permite generar READMEs bien formateados
 Curso Libre [Writing Readme Because Code is for Humans, Too](https://www.udacity.com/course/writing-readmes--ud777).
 
 ## Desarrollador
-**Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/)
-Atte.: Fahed Hermoza.
+**Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).
