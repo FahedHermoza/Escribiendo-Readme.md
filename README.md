@@ -45,7 +45,8 @@ Usa el lenguaje **Markdown** el cual le permite generar READMEs bien formateados
 - StackOverflow, Slack, Reddit son algunos de los que utilizan este lenguaje.
 - Sintaxis básica de estructura y formateo para GitHub [aquí](https://help.github.com/articles/basic-writing-and-formatting-syntax/#paragraphs-and-line-breaks).
 - Usa [insigneas](https://forthebadge.com/) es mas divertido leer tu codigo.
-- Usa [emojis](https://gitmoji.dev/) para los mensajes de commit.
+- Usa [gitmoji](https://gitmoji.dev/) para los mensajes de commit.
+- Usa [emojis](https://www.webfx.com/tools/emoji-cheat-sheet/) que funciona solo en GitHub pero no es parte de Markdown, usado en el README.md.
 - Html sigue siendo valido en Markdorw, no te compliques.
 
 ## Recursos
